@@ -2,7 +2,7 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/JLG-Skunkworks/test-public)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/JLG-Skunkworks/test-public/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/JLG-Skunkworks/test-public/badges.svg)](https://GitHub.com/JLG-Skunkworks/test-public/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/JLG-Skunkworks/test-public/StrapDown.js/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/JLG-Skunkworks/test-public/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
 [![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)

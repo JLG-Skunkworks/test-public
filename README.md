@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/JLG-Skunkworks/test-public/StrapDown.js/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/JLG-Skunkworks/test-public/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
 [![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
-[![Github file count](https://img.shields.io/github/directory-file-count/JLG-Skunkworks/test-public?style=for-the-badge)]()
+[![Github file count](https://img.shields.io/github/directory-file-count/JLG-Skunkworks/test-public)]()
 <p align="center">
     <a href="https://snyk.io/test/github/JLG-Skunkworks/test-public">
         <img src="https://snyk.io/test/github/JLG-Skunkworks/test-public/badge.svg" alt="Known Vulnerabilities"/>
